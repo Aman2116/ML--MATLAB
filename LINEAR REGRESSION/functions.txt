@@ -1,0 +1,7 @@
+# Functions included in the linear Regression:
+1) computeCost - to compute the cost function for single variable
+2) computeCostMulti - to compute the cost function for multivariables
+3) featureNormalize - to normalize the variables within the range
+4) gradientDescent - to calculate the gradient descent for single variable
+5) gradientMultiDescent - to calaculate the gradient descent for multi variables
+6) normalEqn - to calaculate the value of theta using the normal equation
