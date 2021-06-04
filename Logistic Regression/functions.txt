@@ -1,0 +1,6 @@
+# Functions included in the linear Regression:
+costFunction.m - to calculate cost function and gradient 
+costFunctionReg.m - to calculate cost function and gradient with regularization
+plotData.m - to visualize the given data
+predict.m - to produce '1' or '0' predictions given a dataset and a learned parameter vector theta
+sigmoid.m - to calculate sigmoid function
